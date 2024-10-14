@@ -1,4 +1,4 @@
-🏦:# Finance: Loan Default Prediction
+# 🏦 Finance: Loan Default Prediction
 ## Project overview:
 This repository contains a comprehensive Project that includes information about loan applicants.The project aims to develop a predictive model to assess the risk of loan default among applicants. It involves preparing and preprocessing the data, building and testing various machine learning models, and evaluating their performance using standard metrics. The final model provides accurate and interpretable insights, helping financial institutions make informed lending decisions. 
 
